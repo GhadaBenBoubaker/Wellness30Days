@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Wellness30Days</string>
+    <string name="day_1">Jour 1</string>
+    <string name="title_1">Sors sans téléphone</string>
+    <string name="desc_1">Fais une promenade de 30 minutes sans écran. Observe ce qui t\'entoure</string>
+
+    <string name="day_2">Jour 2</string>
+    <string name="title_2">Goûte un plat que tu n\'as jamais mangé</string>
+    <string name="desc_2">Un fruit, une spécialité locale ou un plat d\'ailleurs.</string>
+
+    <string name="day_3">Jour 3</string>
+    <string name="title_3">Parle à un inconnu</string>
+    <string name="desc_3">Un sourire, un bonjour ou une petite conversation.</string>
+
+    <string name="day_4">Jour 4</string>
+    <string name="title_4">Prends un chemin différent</string>
+    <string name="desc_4">Change ton trajet habituel et remarque ce que tu n\'avais jamais vu.</string>
+
+    <string name="day_5">Jour 5</string>
+    <string name="title_5">Lève-toi pour le lever du soleil</string>
+    <string name="desc_5">Regarde-le depuis la plage ou un endroit calme.</string>
+
+    <string name="day_6">Jour 6</string>
+    <string name="title_6">Écris une lettre à ton futur toi</string>
+    <string name="desc_6">Raconte ta vie actuelle et tes rêves, à relire dans un an.</string>
+
+    <string name="day_7">Jour 7</string>
+    <string name="title_7">Dis oui à une invitation</string>
+    <string name="desc_7">Accepte celle que tu aurais refusée d\'habitude.</string>
+
+    <string name="day_8">Jour 8</string>
+    <string name="title_8">Visite un lieu que tu ne connais pas</string>
+    <string name="desc_8">Un endroit de ta ville où tu n\'es jamais allée.</string>
+
+    <string name="day_9">Jour 9</string>
+    <string name="title_9">Entre dans un petit commerce inconnu</string>
+    <string name="desc_9">Une boutique ou un café dans lequel tu n\'es jamais entrée.</string>
+
+    <string name="day_10">Jour 10</string>
+    <string name="title_10">Photographie 5 belles choses</string>
+    <string name="desc_10">Des détails que tu ne remarquais pas avant.</string>
+
+    <string name="day_11">Jour 11</string>
+    <string name="title_11">Marche pieds nus</string>
+    <string name="desc_11">Sur le sable ou sur l\'herbe, pendant quelques minutes.</string>
+
+    <string name="day_12">Jour 12</string>
+    <string name="title_12">Écoute un style de musique inconnu</string>
+    <string name="desc_12">Un genre que tu n\'écoutes jamais, sans le juger.</string>
+
+    <string name="day_13">Jour 13</string>
+    <string name="title_13">Apprends 5 mots dans une nouvelle langue</string>
+    <string name="desc_13">Puis utilise-les dans une phrase.</string>
+
+    <string name="day_14">Jour 14</string>
+    <string name="title_14">Fais un pique-nique improvisé</string>
+    <string name="desc_14">Prends ce que tu as sous la main et installe-toi dehors.</string>
+
+    <string name="day_15">Jour 15</string>
+    <string name="title_15">Dessine quelque chose</string>
+    <string name="desc_15">Même si tu dessines mal, l\'important est d\'essayer.</string>
+
+    <string name="day_16">Jour 16</string>
+    <string name="title_16">Cuisine sans suivre la recette</string>
+    <string name="desc_16">Invente un plat avec ce que tu trouves chez toi.</string>
+
+    <string name="day_17">Jour 17</string>
+    <string name="title_17">Fais un compliment sincère</string>
+    <string name="desc_17">Dis à quelqu\'un ce que tu apprécies chez lui.</string>
+
+    <string name="day_18">Jour 18</string>
+    <string name="title_18">Regarde un film d\'un autre pays</string>
+    <string name="desc_18">Choisis une culture que tu connais peu.</string>
+
+    <string name="day_19">Jour 19</string>
+    <string name="title_19">Écris un poème ou une histoire</string>
+    <string name="desc_19">Cinq lignes suffisent.</string>
+
+    <string name="day_20">Jour 20</string>
+    <string name="title_20">Apprends une compétence en 15 minutes</string>
+    <string name="desc_20">Un nœud, un pas de danse ou un tour de magie.</string>
+
+    <string name="day_21">Jour 21</string>
+    <string name="title_21">Regarde le ciel ou la mer</string>
+    <string name="desc_21">Reste 10 minutes sans rien faire d\'autre.</string>
+
+    <string name="day_22">Jour 22</string>
+    <string name="title_22">Rends service à quelqu\'un</string>
+    <string name="desc_22">Sans qu\'on te le demande.</string>
+
+    <string name="day_23">Jour 23</string>
+    <string name="title_23">Fais une randonnée ou une longue marche</string>
+    <string name="desc_23">Choisis un chemin que tu ne connais pas.</string>
+
+    <string name="day_24">Jour 24</string>
+    <string name="title_24">Passe une soirée sans réseaux sociaux</string>
+    <string name="desc_24">Profite de ton temps pour faire autre chose.</string>
+
+    <string name="day_25">Jour 25</string>
+    <string name="title_25">Appelle quelqu\'un que tu n\'as pas vu depuis longtemps</string>
+    <string name="desc_25">Prends des nouvelles, tout simplement.</string>
+
+    <string name="day_26">Jour 26</string>
+    <string name="title_26">Essaie une activité inconnue</string>
+    <string name="desc_26">Un sport ou un loisir que tu n\'as jamais testé.</string>
+
+    <string name="day_27">Jour 27</string>
+    <string name="title_27">Pose une question à une autre génération</string>
+    <string name="desc_27">Demande un souvenir ou un conseil à un grand-parent.</string>
+
+    <string name="day_28">Jour 28</string>
+    <string name="title_28">Organise une mini-sortie improvisée</string>
+    <string name="desc_28">Propose à des amis de sortir dès aujourd\'hui.</string>
+
+    <string name="day_29">Jour 29</string>
+    <string name="title_29">Fais quelque chose qui te fait un peu peur</string>
+    <string name="desc_29">Un petit pas hors de ta zone de confort.</string>
+
+    <string name="day_30">Jour 30</string>
+    <string name="title_30">Note tes 3 meilleures aventures</string>
+    <string name="desc_30">Relis le mois et garde tes meilleurs souvenirs.</string>
+</resources>
